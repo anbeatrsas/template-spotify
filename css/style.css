@@ -349,6 +349,8 @@ li {
 #menu li a:hover{
 
     background-color: gray;
+    transform: scale(1.05);
+    transition: 0.1s;
     
 }
 
@@ -370,6 +372,8 @@ li {
 #MenuPlaylist li a:hover{
 
     background-color: gray;
+    transform: scale(1.05);
+    transition: 0.1s;
     
  }
 
