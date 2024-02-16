@@ -238,6 +238,7 @@ body {
 
 }
 
+
 #library {
 
     color: rgb(197, 197, 197);
@@ -543,6 +544,8 @@ h1 {
 #BrowseList li a:hover {
     
     border-bottom: 3px solid green;
+    transform: scale(1.10);
+    transition: 0.1s;
 
 
 }
